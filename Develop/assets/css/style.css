@@ -1,12 +1,16 @@
+/* This is the CSS Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/* This is an Element Selector */
 
  body { 
     background-color: #d9dcd6;
 }
+
+/* This is a Class Selector */
 
 .header {
     padding: 20px;
@@ -195,6 +199,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
